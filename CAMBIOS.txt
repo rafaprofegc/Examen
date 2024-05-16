@@ -1,0 +1,23 @@
+Ejercicio 2a
+Código a añadir al archivo Numero.py
+------------------------------------
+def suma(n: int) -> None:
+    self.__numero += n
+------------------------------------
+Fin del código a añadir al archivo Numero.py
+
+Ejercicio 5a
+Código para reemplazar el método suma() en el archivo Numero.py
+---------------------------------------------------------------
+def suma(n: int) -> int:
+    return self.__numero + n
+-----------------------------------------------------------------------
+Fin del código para reemplazar el método suma() en el archivo Numero.py
+
+Ejercicio 7b
+Código a añadir al archivo Numero.py
+------------------------------------
+def resta(n: int) -> None:
+    self.__numero -= n
+------------------------------------
+Fin del código a añadir al archivo Numero.py
