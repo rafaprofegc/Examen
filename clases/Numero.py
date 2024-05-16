@@ -44,4 +44,7 @@ class Numero:
     def __str__(self) -> str:
         return self.__numero.__str__()
 
+    def multiplica(n: int) -> None:
+        self.__numero *= n
+
 # Fin de la clase Numero
