@@ -21,3 +21,11 @@ def resta(n: int) -> None:
     self.__numero -= n
 ------------------------------------
 Fin del código a añadir al archivo Numero.py
+
+Ejercicio 8c
+Código a añadir al archivo Numero.py
+------------------------------------
+def multiplica(n: int) -> None:
+    self.__numero *= n
+------------------------------------
+Fin del código a añadir al archivo Numero.py
