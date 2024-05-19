@@ -20,8 +20,8 @@ class Numero:
     def es_perfecto(self):
         suma_divisores = 1
         divisor = 2
-        while divisor < self.numero / 2:
-            if self.numero % divisor == 0:
+        while divisor < self.__numero / 2:
+            if self.__numero % divisor == 0:
                 suma_divisores += divisor
             divisor = divisor + 1
 
