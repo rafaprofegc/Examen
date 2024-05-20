@@ -4,3 +4,6 @@ class javier16:
 
     def __str__(self) -> str:
         return self.numero.__str__()
+
+    def __rep__(self) -> str:
+        return self.numero.__rep__()
