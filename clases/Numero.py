@@ -27,6 +27,9 @@ class Numero:
 
         # Fin del bucle while
         return suma_divisores == self.__numero
+    
+    def suma(self, n: int) -> None:
+    	self.__numero += n
 
 # Fin del método es_perfecto
 
