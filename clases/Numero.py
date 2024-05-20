@@ -30,6 +30,9 @@ class Numero:
     
     def suma(self, n: int) -> None:
     	self.__numero += n
+    	
+    def resta(self, n: int) -> None:
+    	self.__numero -= n
 
 # Fin del método es_perfecto
 
